@@ -1,0 +1,288 @@
+Running DDL
+Creating tables and  constraints
+Creating tables
+Deleting tables
+Deleting existing utilisateurs
+
+Table supprimée.
+
+Deleting existing Recommendations
+
+Table supprimée.
+
+Deleting existing Besoin_Realiser
+
+Table supprimée.
+
+Deleting existing Candidatures
+
+Table supprimée.
+
+Deleting existing Publications
+
+Table supprimée.
+
+deleting existing Besoins
+
+Table supprimée.
+
+deleting existing Secteurs
+
+Table supprimée.
+
+deleting existing Utilisateurs_Secteurs
+
+Table supprimée.
+
+Creating tables
+Creating table utilisateurs
+
+Table créée.
+
+Creating table Recommendations
+
+Table créée.
+
+Creating table Besoin_Realiser
+
+Table créée.
+
+Creating table Candidatures
+
+Table créée.
+
+Creating table Publications
+
+Table créée.
+
+Creating table Besoins
+
+Table créée.
+
+Creating table Secteurs
+
+Table créée.
+
+Creating table Utilisateurs_Secteurs
+
+Table créée.
+
+Running indexes
+Creating indexes
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+
+Index créé.
+
+"**********************" Ajout Des Contrantes "**********************"
+creating constraint
+"**********************" ajout des cles primaire "**********************"
+ajout des cles primaire
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+"**********************" ajout des cles etrangere "**********************"
+ajout des cles etrangere
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+"**********************" ajout des element unique "**********************"
+Launching check
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+"**********************" ajout des element a checker "**********************"
+constraint of check element
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+Running DML
+Removing existing data
+
+0 lignes supprimées.
+
+
+0 lignes supprimées.
+
+Inserting data
+Insertion des donnees dans les tables
+INSERTING into utilisateurs
+
+Procédure PL/SQL terminée avec succès.
+
+INSERTING into Secteurs
+
+Procédure PL/SQL terminée avec succès.
+
+INSERTING into Besoin_Realiser
+
+Procédure PL/SQL terminée avec succès.
+
+INSERTING into Recommendations
+
+Procédure PL/SQL terminée avec succès.
+
+INSERTING into Besions
+
+Procédure PL/SQL terminée avec succès.
+
+INSERTING into Publications
+
+Procédure PL/SQL terminée avec succès.
+
+INSERTING into Candidatures
+
+Procédure PL/SQL terminée avec succès.
+
+
+Validation effectuée.
+
+Resetting identity columns
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+"**************Assist-Job*****************"
+suppression des sequences
+
+Séquence supprimée.
+
+
+Séquence supprimée.
+
+drop sequence pub_seq
+              *
+ERREUR à la ligne 1 :
+ORA-02289: la séquence n'existe pas 
+
+
+
+Séquence supprimée.
+
+
+Séquence supprimée.
+
+
+Séquence supprimée.
+
+creation des sequence
+
+Séquence créée.
+
+
+Séquence créée.
+
+
+Séquence créée.
+
+
+Séquence créée.
+
+
+Séquence créée.
+
